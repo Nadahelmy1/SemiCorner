@@ -5,7 +5,7 @@ package org.example;
 public class Main {
     static void main() {
 
-        int x=5;
+        int x=4;
         int z= 10;
         int yy=55;
 
